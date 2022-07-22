@@ -1,0 +1,80 @@
+.btn-outline-warning {
+  border-radius: 30px;
+}
+.btn-warning {
+  border-radius: 30px;
+}
+.btn-outline-warning {
+  border-radius: 30px;
+}
+.container-fluid2 {
+  background-color: aqua;
+}
+btn-warning {
+  border: none;
+  text-align: justify;
+  margin: auto;
+}
+#smalllogo {
+  position: relative;
+  left: -70px;
+  height: 5rem;
+  bottom: 40px;
+  border-radius: 20px;
+  min-width: 5rem;
+}
+.card {
+  border-radius: 20px;
+  background-color: aliceblue;
+  margin: 0 auto;
+}
+#myBtn {
+  border: none;
+  background-color: aliceblue;
+}
+.container-fluid4 {
+  background-color: purple;
+}
+.wer {
+  overflow-x: scroll;
+  gap: 2rem;
+}
+.card {
+  min-width: 15em;
+  gap: 2rem;
+}
+.cardbottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* 5th page */
+/* .fifth{
+    gap: 2rem;
+    min-width: 8rem;
+    padding: 10px;
+    background-color: aliceblue;
+    margin: 0rem 0rem 5rem 5rem ;
+    margin-left: auto;
+    
+}
+.card-img-top{
+    height: 90px;
+} */
+.fifth {
+  gap: 2rem;
+  /* margin-left: 0 auto; */
+  justify-content: space-around;
+  min-width: 8rem;
+  padding: 10px;
+  background-color: aliceblue;
+  margin: 0rem 5rem 5rem 5rem;
+}
+.card-img {
+  height: 90px;
+}
+/* 6th */
+card2 {
+  margin-bottom: 3rem;
+}
+/* 7th */
